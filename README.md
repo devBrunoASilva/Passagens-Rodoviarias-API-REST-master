@@ -311,7 +311,7 @@ FOR EACH ROW
 -- Define que a trigger vai executar a função "incrementa_dia"
 EXECUTE FUNCTION incrementa_dia();
 ```
-2. Clone o repository: git clone https://github.com/FilipeMagal/Passagens-Rodoviarias-API-REST.git
+2. Clone o repository: git clone https://github.com/devBrunoASilva/Passagens-Rodoviarias-API-REST.git
 3. Compile e execute 
 4. Após compilar, o spring security irá criar um token
 5. Use o token no postman para autorização (basic auth)
